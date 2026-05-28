@@ -168,6 +168,25 @@ https://youtu.be/_ir9du6fq4Q?si=XvXUmuOVvyzoMkOg> [Accessed on
 https://youtu.be/fNcJuPIZ2WE?si=r3S2vqx2o2tEt_9H [Accessed on 18 May 
 2026] 
 
+---
+
+# Changelog
+- Created all HTML pages
+- Added navigation menu
+- Added environmental images
+- Added volunteer form
+- Added donatioon form
+- Added contact form
+- Added responsive form
+- Added image gallery
+- Added project and events sections
+
+---
+
+# GitHub repository
+https://github.com/mashau2380-ctrl/2nd-proposal
+
+---
 
 
 
