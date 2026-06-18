@@ -180,6 +180,10 @@ https://youtu.be/fNcJuPIZ2WE?si=r3S2vqx2o2tEt_9H [Accessed on 18 May
 - Added responsive form
 - Added image gallery
 - Added project and events sections
+- Added Facebook, Instagram and X social media links
+- Added social media icons to the footer
+- Added two embedded maps on the Contact page
+
 
 ---
 
