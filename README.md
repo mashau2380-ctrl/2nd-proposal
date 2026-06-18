@@ -141,6 +141,8 @@ They help by:
 1. Showing clear directions.
 2. Making it easy to locate us in person.
 
+--- 
+
 # References
 
 ## Websites
