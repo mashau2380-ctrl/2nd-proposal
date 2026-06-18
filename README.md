@@ -135,6 +135,12 @@ Allows users to:
 
 ---
 
+# Maps and location service
+The contact page has 2 maps built in o people can easily find the offices.
+They help by:
+1. Showing clear directions.
+2. Making it easy to locate us in person.
+
 # References
 
 ## Websites
